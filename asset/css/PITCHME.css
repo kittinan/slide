@@ -1,4 +1,10 @@
 .reveal .slides {
+    text-align: left;
+}
+.slides h1,
+.slides h2,
+.slides h3,
+.slides h4 {
     text-align: center;
 }
 .reveal .slides section>ul {
