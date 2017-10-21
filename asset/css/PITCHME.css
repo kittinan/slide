@@ -1,7 +1,7 @@
 .reveal .slides {
     text-align: left;
 }
-.reveal .slides section>* {
+.reveal .slides section>ul {
     margin-left: 0;
     margin-right: 0;
 }
