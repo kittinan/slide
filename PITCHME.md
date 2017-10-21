@@ -1,3 +1,4 @@
+<!-- .slide: class="center" -->
 # Machine Learning
 
 ### แบบมั่วๆ
@@ -5,7 +6,7 @@
 #### By Kittinan
 
 ---
-
+<!-- .slide: class="center" -->
 #### AI vs Mahcine Learning vs Deep Learing
 ---
 
