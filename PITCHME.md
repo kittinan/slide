@@ -14,3 +14,17 @@
 - Supervised learning
 - Unsupervised Learning
 - Reinforcement Learning
+---
+### Supervised learning
+- Labeled data
+- Regression problem
+- Classification problems
+
+### Supervised learning Algorithms
+
+- Linear Regression
+- Nearest Neighbor
+- Naive Bayes
+- Decision Trees
+- Support Vector Machines (SVM)
+- Neural Networks
