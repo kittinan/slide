@@ -10,7 +10,7 @@
 @title[AI vs Mahcine Learning vs Deep Learing]
 ![image](https://blogs.nvidia.com/wp-content/uploads/2016/07/Deep_Learning_Icons_R5_PNG.jpg.png)
 ---
-### Types of machine learning Algorithms
+#### Types of machine learning Algorithms
 - Supervised learning
 - Unsupervised Learning
 - Reinforcement Learning
