@@ -2,6 +2,12 @@
     text-align: left;
 }
 
+.slides .center h1,
+.slides .center h2,
+.slides .center h3,
+.slides .center h4 {
+    text-align: center;
+}
 .reveal .slides section>ul {
     margin-left: 0;
     margin-right: 0;
