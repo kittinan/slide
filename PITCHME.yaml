@@ -1,2 +1,3 @@
 logo : asset/logo.png
 theme-override : asset/css/PITCHME.css
+vertical-center : false
