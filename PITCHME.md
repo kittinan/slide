@@ -34,3 +34,17 @@
 - Decision Trees
 - Support Vector Machines (SVM)
 - Neural Networks
+---
+
+### Unsupervised Learning
+
+- Clustering
+---
+
+### Reinforcement Learning
+---
+
+### Nueral Network
+
+ขี้เกียจแล้ว ไปดูที่
+http://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
