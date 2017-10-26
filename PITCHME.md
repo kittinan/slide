@@ -53,7 +53,7 @@
 - Seaborn
 ---
 
-### Library Deep Learning
+### Deep Learning Library 
 - Tensorflow
 - Keras
 ---
