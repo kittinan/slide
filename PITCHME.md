@@ -51,17 +51,19 @@
 - Pandas
 - Matplotlib
 - Seaborn
-
+---
 
 ### Library Deep Learning
 - Tensorflow
 - Keras
+---
 
 ### Nueral Network
 
 ขี้เกียจแล้ว ไปดูที่
 
 http://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
+---
 
 ### Tensorflow playground
 
